@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Pickle-Rick" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>20211204 Taracena-Peña Hueva-Valdenoches-Carravieja-Pico de Águila (waypoints only)</name>
+    <desc>30 waypoints extracted from Wikiloc trail 90380921. NOT the full 1381-point track (Wikiloc gates full GPX behind login/premium). Use for orientation only.</desc>
+  </metadata>
+  <trk>
+    <name>Waypoints route</name>
+    <trkseg>
+      <trkpt lat="40.652309" lon="-3.125956"></trkpt>
+      <trkpt lat="40.651428" lon="-3.125258"></trkpt>
+      <trkpt lat="40.654321" lon="-3.123406"></trkpt>
+      <trkpt lat="40.658644" lon="-3.111159"></trkpt>
+      <trkpt lat="40.65863" lon="-3.106851"></trkpt>
+      <trkpt lat="40.656003" lon="-3.106295"></trkpt>
+      <trkpt lat="40.665718" lon="-3.094489"></trkpt>
+      <trkpt lat="40.6704" lon="-3.090924"></trkpt>
+      <trkpt lat="40.676647" lon="-3.08376"></trkpt>
+      <trkpt lat="40.679008" lon="-3.082151"></trkpt>
+      <trkpt lat="40.680957" lon="-3.083188"></trkpt>
+      <trkpt lat="40.682759" lon="-3.087144"></trkpt>
+      <trkpt lat="40.683618" lon="-3.086472"></trkpt>
+      <trkpt lat="40.684055" lon="-3.088149"></trkpt>
+      <trkpt lat="40.683611" lon="-3.090788"></trkpt>
+      <trkpt lat="40.678762" lon="-3.101642"></trkpt>
+      <trkpt lat="40.679937" lon="-3.10157"></trkpt>
+      <trkpt lat="40.680489" lon="-3.101806"></trkpt>
+      <trkpt lat="40.679102" lon="-3.107353"></trkpt>
+      <trkpt lat="40.676751" lon="-3.111899"></trkpt>
+      <trkpt lat="40.676455" lon="-3.111771"></trkpt>
+      <trkpt lat="40.672187" lon="-3.110496"></trkpt>
+      <trkpt lat="40.67092" lon="-3.111187"></trkpt>
+      <trkpt lat="40.670542" lon="-3.115264"></trkpt>
+      <trkpt lat="40.669885" lon="-3.116663"></trkpt>
+      <trkpt lat="40.668526" lon="-3.116043"></trkpt>
+      <trkpt lat="40.662381" lon="-3.120283"></trkpt>
+      <trkpt lat="40.660099" lon="-3.12601"></trkpt>
+      <trkpt lat="40.657042" lon="-3.126084"></trkpt>
+      <trkpt lat="40.65451" lon="-3.12681"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
